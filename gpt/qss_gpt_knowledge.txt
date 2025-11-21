@@ -827,6 +827,7 @@ The dimensions covered here:
 - Causality & Consequence
 - Layering / Abstraction
 - Temporal
+- Evidence & Uncertainty
 - Meta / Reflexive
 
 ## Clarification
@@ -901,7 +902,7 @@ Assumption questions surface **what people take for granted** about reality, con
 
 ## Boundaries & Ownership
 
-Boundary questions define **what is inside or outside the system**, and **who holds responsibility or authority** over different parts.
+Boundary questions define **what is inside or outside the the system**, and **who holds responsibility or authority** over different parts.
 
 ### What it is for
 
@@ -975,7 +976,7 @@ Emotional & Relational questions make the **felt experience** and **basic relati
 
 ### What it is for
 
-- Surfacing how the situation *feels* to the people involved.
+- Surfacing how the situation feels to the people involved.
 - Naming needs that, if chronically unmet, will undermine any agreement:
   - safety, respect, predictability, fairness, belonging, autonomy, recognition.
 - Reducing hidden emotional friction that logic alone cannot fix.
@@ -987,7 +988,7 @@ Emotional & Relational questions make the **felt experience** and **basic relati
 - Stabilization Mode:
   - More explicitly, when frustration, fear, or resentment are already in the room.
 - Growth Mode:
-  - To design not only *what* should happen, but *how it should feel* when things go well.
+  - To design not only what should happen, but how it should feel when things go well.
 
 ### Signs it is missing
 
@@ -1004,7 +1005,7 @@ These stay in the **present and near-future** and avoid turning the space into t
 - “What’s one thing in how we work together that makes it easier for you to do your best work? One thing that makes it harder?”
 - “Is there anything about our current collaboration that quietly erodes your trust or energy?”
 - “What do you need more of (or less of) here to feel this is sustainable?”
-- “If this change goes well, how would the day-to-day *feel* different for you?”
+- “If this change goes well, how would the day-to-day feel different for you?”
 
 ### Pitfalls
 
@@ -1159,6 +1160,48 @@ Temporal questions explore **how things change over time**: what led here, what 
 - Making overconfident predictions about the future.
 - Ignoring the present in favor of nostalgic or speculative narratives.
 
+## Evidence & Uncertainty
+
+Evidence & Uncertainty questions distinguish **what is actually known** from **what is assumed, inferred, or imagined**, and how confident we are in those beliefs.
+
+### What it is for
+
+- Making the epistemic status of statements visible:
+  - observation versus metric versus hearsay versus guess.
+- Preventing overconfidence when stakes are high.
+- Identifying where more data, experimentation, or validation would meaningfully reduce risk.
+
+### When to use it
+
+- When decisions depend heavily on claims about reality:
+  - performance, costs, timelines, load, market size, user behavior.
+- When people say “everyone knows…” or “it’s obvious that…”.
+- When conflict centers on “facts” that cannot all be true at once.
+
+### Signs it is missing
+
+- Everyone has a strong story; nobody can point to any concrete observation or data.
+- People argue by status or rhetoric rather than by reference to shared evidence.
+- Plans are built on confident estimates that consistently fail in practice.
+- Genuine uncertainty is treated as weakness instead of a signal to learn.
+
+### Example question patterns
+
+- “What do we actually know about this from direct observation or data?”
+- “What have we inferred on top of that? What is pure assumption?”
+- “How confident are we in this estimate? What would change our mind?”
+- “What small experiment or measurement could reduce our uncertainty here?”
+- “Where are we acting as if something is certain when it is actually uncertain?”
+
+### Pitfalls
+
+- Turning this dimension into aggressive fact-checking that shuts people down.
+- Dismissing lived experience or qualitative insights because they are “not data”.
+- Creating the illusion that all uncertainty can or should be eliminated.
+- Over-indexing on easily measurable things and ignoring important but harder-to-measure factors (like trust, morale, reputational risk).
+
+Evidence & Uncertainty is not about becoming a statistician inside every conversation. It is about **being honest about what is known and what is not**, so question spaces do not accidentally harden speculation into “truth”.
+
 ## Meta / Reflexive
 
 Meta questions reflect on **the inquiry itself**: how we are thinking, what we are missing, and how the space feels.
@@ -1187,6 +1230,7 @@ Meta questions reflect on **the inquiry itself**: how we are thinking, what we a
 - “What feels more confusing or unsettled now?”
 - “Which important perspective or topic have we not touched yet?”
 - “Are we still asking the right questions for our original intent?”
+- “Did any part of this conversation feel unsafe, unfair, or unhelpful?”
 
 ### Pitfalls
 
@@ -1207,15 +1251,15 @@ Instead, you:
 Examples of dimension selections:
 
 - Early client–vendor alignment:
-  - Clarification, Assumptions, Boundaries & Ownership, Value & Impact, Emotional & Relational Field / Needs, Causality & Consequence.
+  - Clarification, Assumptions, Boundaries & Ownership, Value & Impact, Emotional & Relational Field / Needs, Evidence & Uncertainty, Causality & Consequence.
 - Internal team conflict:
   - Clarification, Assumptions, Emotional & Relational Field / Needs, Boundaries & Ownership, Value & Impact, Meta.
 - Personal career reflection:
   - Value & Impact, Emotional & Relational Field / Needs, Temporal, Layering, Meta.
 - Creative direction for a recording:
-  - Contrast & Alternatives, Value & Impact, Emotional & Relational Field / Needs, Causality & Consequence, Layering.
+  - Contrast & Alternatives, Value & Impact, Emotional & Relational Field / Needs, Causality & Consequence, Evidence & Uncertainty (for example, what you actually know about your audience), Layering.
 
-The next chapter, on **Modes and Lifecycle**, shows how these dimensions behave differently in Setup, Stabilization, and Growth modes of a question space.
+The next chapter, on Modes and Lifecycle, shows how these dimensions behave differently in Setup, Stabilization, and Growth modes of a question space.
 
 # Modes and Lifecycle
 
