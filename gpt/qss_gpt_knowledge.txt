@@ -551,249 +551,343 @@ You can treat this chapter as the reference point whenever you ask:
 
 # Core Architecture: Orientation, Topology, Flow, Recursion
 
-This chapter describes the **core architecture** of a Question Space in QSS.
+The Question Space System (QSS) treats every question space as having a simple underlying architecture:
 
-Every question space, regardless of domain, can be understood as four interacting layers:
+- Orientation
+- Topology
+- Flow
+- Recursion
 
-- **Orientation** – Why we are asking.
-- **Topology** – What dimensions of inquiry we activate.
-- **Flow** – How we move through those dimensions.
-- **Recursion** – How the space learns and corrects itself.
+This is not a universal law.  
+It is a **design lens**: a way to think about how your spaces are built, used, and improved.
 
-You can think of it as:
-
-> Orientation sets the intent →  
-> Topology shapes the landscape →  
-> Flow guides the journey →  
-> Recursion improves the map while you travel.
-
-The rest of QSS builds on this structure.
+If a space feels off, you can usually trace the problem to one of these layers.
 
 ## Orientation
 
-**Orientation** is the layer that defines *why* the question space exists at all.
+Orientation is the **intent and scope** of the question space.
 
-Without Orientation, questions become either random or manipulative. With Orientation, the space can be evaluated and adjusted against a clear purpose.
+It answers:
 
-### Purpose of Orientation
+- Why does this space exist?
+- For whom does it exist?
+- What kinds of consequences is it trying to influence or avoid?
+- How do we want this to feel for the people inside it?
+- What are the limits and power realities we must respect?
 
-Orientation:
+Orientation anchors the space in **purpose and ethics**, not just structure.
 
-- Clarifies what we are trying to understand or change.
-- Connects inquiry to **human and system consequences**.
-- Makes the space accountable to a concrete intent.
+### Elements of Orientation
 
-Typical intentions include:
+You can treat Orientation as having at least five parts:
 
-- Diagnose misalignment.
-- Explore options and trade-offs.
-- Clarify values and priorities.
-- Design a transition or reset.
-- Reflect on experience and learn.
+- **Cognitive goal**  
+  What we want to understand, clarify, or decide.
+- **Relational goal**  
+  How we want this to feel (for example, safe, honest, direct, exploratory).
+- **Stakeholders**  
+  Who is inside this space, and who will be affected by the outcomes.
+- **Power & risk context**  
+  Who holds more authority, who is more exposed, who is being evaluated.
+- **Scope & limits**  
+  What this space is meant to handle, and what lies outside its responsibility (for example, therapy, legal decisions, medical emergencies).
 
-### Core Orientation Questions
+If any of these are fuzzy, Orientation is weak.
 
-Before designing any question space, QSS encourages answering questions such as:
+### Signs of a weak Orientation
 
-- What situation is this space for?
-- What decision, change, or understanding do we want to enable?
-- For whom does this matter most?
-- What kinds of consequences are we trying to influence or avoid?
-- What is explicitly *out of scope* for this space?
+- People are unsure what this conversation is “for”.
+- Questions drift across topics without a clear thread.
+- The tone feels off:
+  - too soft when hard choices are needed,
+  - too harsh when people are vulnerable.
+- Lower-power participants are quiet or guarded, unsure how their answers will be used.
+- Questions wander into areas that feel too personal, too legal, or too clinical for the context.
 
-These do not need to be long. A few sharp sentences are usually enough.
+### Example Orientation statements
 
-### Orientation Examples
+- “Understand why the client and vendor have different expectations about scope and speed, and rebuild a way of working that feels predictable and fair for both.”
+- “Help this engineer decide whether to move into a hybrid leadership role, in a way that respects their energy, values, and long-term impact.”
+- “Align this team on what ‘done’ means across roles, so we reduce rework and frustration without turning this into a blame session.”
 
-Client–Vendor engagement:
-- “Enable both sides to see where expectations, constraints, and success criteria differ, so we can adjust the engagement before it fails.”
+Good Orientation statements often mention:
 
-Personal role reflection:
-- “Understand whether moving into a hybrid leadership role is aligned with my values, energy, and desired impact over the next five years.”
-
-Creative decision (mix direction):
-- “Clarify the trade-offs between ‘hi-fi precision’ and ‘live energy’ for this recording, and choose a direction that best serves the music and its audience.”
-
-In practice, Orientation is often captured as a short paragraph at the top of a question space artifact.
+- cognitive outcome,
+- relational tone,
+- and constraints (time, power, scope).
 
 ## Topology
 
-**Topology** describes the **shape of the space**: which dimensions of inquiry are present and how they relate.
+Topology is the **shape of the space**: which dimensions are present, and how they relate.
 
-Instead of a flat, undifferentiated list of questions, a question space is structured around **dimensions** such as:
+It answers:
+
+- Which types of questions belong in this space?
+- Which ones are deliberately left out?
+- How do the chosen dimensions relate (for example, which feed into which)?
+
+QSS defines a set of **Dimensions of Inquiry**. Topology is the subset you activate for this context:
 
 - Clarification
 - Assumptions
 - Boundaries & Ownership
 - Value & Impact
+- Emotional & Relational Field / Needs
 - Contrast & Alternatives
 - Causality & Consequence
 - Layering / Abstraction
 - Temporal (past–present–future)
+- Evidence & Uncertainty
 - Meta / Reflexive
 
-These are detailed in the next chapter. Here, we focus on how they work together as a topology.
+A small, focused question space might only use two or three dimensions. A richer space might use five or six.
 
-### Purpose of Topology
+### Topology as a design decision
 
-Topology:
+Choosing topology means answering:
 
-- Ensures that inquiry covers **relevant dimensions**, not just the loudest or most comfortable ones.
-- Reduces the chance of blind spots (for example, talking only about features and never about consequences).
-- Makes it easier to adapt and reuse spaces by swapping or reweighting dimensions.
+- “Given our Orientation, which dimensions are essential?”
+- “Which dimensions would be distractors or unsafe here?”
+- “Where do we need more emotional awareness?”
+- “Where do we need more evidence awareness?”
 
-### Selecting Dimensions
+Some default patterns:
 
-A question space rarely uses all possible dimensions. Instead, it deliberately chooses a subset based on:
+- Early alignment between organizations:
+  - Clarification, Assumptions, Boundaries, Value & Impact, Evidence & Uncertainty.
+- Conflict repair:
+  - Clarification, Assumptions, Emotional & Relational Field / Needs, Boundaries, Value & Impact, Meta.
+- Personal reflection:
+  - Value & Impact, Emotional & Relational Field / Needs, Temporal, Layering, Meta.
+- Strategy exploration:
+  - Contrast & Alternatives, Value & Impact, Causality & Consequence, Temporal, Evidence & Uncertainty, Layering.
 
-- The **nature of the situation** (diagnosis, strategy, reflection, creative choice).
-- The **main risks** (misalignment, hidden constraints, emotional overload, unclear impact).
-- The **time available** (quick scan vs deep exploration).
+### Topology and power/safety
 
-Examples:
+Topology should reflect **who is in the room and how safe it is for them**:
 
-- For early project misalignment:
-  - Clarification, Assumptions, Boundaries, Value & Impact, Causality & Consequence.
-- For personal reflection:
-  - Value & Impact, Temporal, Layering, Meta.
-- For creative direction:
-  - Contrast & Alternatives, Value & Impact, Layering, Causality & Consequence.
+- In a manager–team context:
+  - Emotion & Needs questions should be phrased carefully and focus on the system, not on individual confession.
+  - Evidence & Uncertainty can help ground discussion in shared reality instead of subjective evaluation.
+- In a vendor–client escalation:
+  - Emotional & Relational Field is critical, but:
+    - it may be safer to ask about “how this collaboration feels” rather than “how this person makes you feel”.
+  - Boundaries, Value, and Evidence are often more urgent than open-ended Meta.
 
-### Multi-Perspective Topology
+### Signs of a weak Topology
 
-Topology can also carry **perspectives** explicitly:
-
-- Client vs Vendor vs End User.
-- Individual vs Team vs Organization.
-- Artist vs Audience vs Market.
-
-For example, the same dimension (Value & Impact) can be explored from multiple perspectives:
-
-- “What does success look like for the client?”  
-- “What does success look like for the vendor?”  
-- “What does success look like for end users?”
-
-Good topology design makes it easy to see where perspectives align and where they diverge.
+- Important dimensions are missing:
+  - decisions made without discussing impact,
+  - emotional tension never acknowledged,
+  - strong claims accepted without evidence checks.
+- Too many dimensions:
+  - participants feel the space is “about everything and nothing”.
+- The dimensions do not match the mode:
+  - heavy strategic Contrast in a crisis,
+  - deep Emotion in a context that lacks basic psychological safety.
 
 ## Flow
 
-**Flow** defines **how we travel** through the topology.
+Flow is the **pathway through the topology**:
 
-A question space is not just a set of dimensions; it also provides a sensible **pathway**:
+- Where do we start?
+- In what order do we visit dimensions?
+- How do we know when to go deeper versus when to move on?
+- How do we land in a place that supports action or integration?
 
-- Where to start.
-- What to explore first.
-- When to deepen.
-- When to switch dimensions.
-- How to land on usable clarity.
+Two spaces can have the same Topology but very different Flows.
 
-### Purpose of Flow
+### Components of Flow
 
-Flow:
+You can think about Flow in terms of:
 
-- Prevents the conversation from becoming chaotic or exhausting.
-- Matches the **cognitive/emotional load** of participants.
-- Creates a sense of progress: “We moved from confusion to some kind of shared understanding.”
+- **Entry**  
+  The first questions that set tone and direction.
+- **Sequence**  
+  The order of dimensions and questions.
+- **Depth control**  
+  How many questions per dimension, how deep to go.
+- **Branching**  
+  Optional paths depending on what emerges.
+- **Exit**  
+  How you close the space, including Meta and next steps.
 
-Flow does not have to be rigidly linear, but it should be **legible**.
+### Example Flow patterns
 
-### Typical Flow Patterns
+- **Linear shallow pass → deep dive**  
+  - Quick sweep: Clarification → Value & Impact → Assumptions → Emotion & Needs → Evidence.  
+  - Meta: “Where should we go deeper?”  
+  - Deep dive into one or two dimensions.
 
-Some common patterns QSS recognizes:
+- **Two-phase flow**  
+  - Phase 1: Clarification, Assumptions, Evidence & Uncertainty (what is happening?).  
+  - Phase 2: Value & Impact, Emotion & Needs, Consequences, Meta (what does it mean and what now?).
 
-- **Context → Clarification → Boundaries → Value & Impact → Consequences → Meta**  
-  Useful for project kickoffs and alignment sessions.
+- **Branching flow**  
+  - Core trunk:
+    - Context → Clarification → Value & Impact.  
+  - If strong disagreement appears:
+    - branch to Assumptions and Boundaries.  
+  - If emotional tension appears:
+    - branch to Emotion & Needs with care.  
+  - If claims conflict:
+    - branch to Evidence & Uncertainty.
 
-- **Situation recap → Assumptions → Boundaries → Causality & Consequence → Trade-offs → Next steps**  
-  Useful for conflict or escalation.
+### Flow and power/safety
 
-- **Future vision → Value & Impact → Contrast with present → Causality → Experiments / options → Meta reflection**  
-  Useful for strategy or visioning conversations.
+Flow is where you encode **respect for power and safety**:
 
-- **Past → Present → Future**  
-  Combined with Value & Impact and Meta, useful for personal reflection.
+- Do not start with emotionally exposing questions when:
+  - people do not know each other,
+  - there is a strong hierarchy,
+  - the context is already tense.
+- Instead:
+  - Start with Clarification and system-level Value & Impact.
+  - Introduce Emotion & Needs after some shared safety is built.
+- If you are in power:
+  - Start with self-accountability:
+    - “What expectations did I set?”
+    - “What might I have missed?”
+  - Avoid “Why did you…” questions at the beginning.
 
-### Depth Management
+### Signs of a weak Flow
 
-Flow can also be designed at multiple depths:
-
-- **Shallow pass**: one or two questions per dimension, to get quick shared picture.
-- **Deep dive**: more detailed questions within a single critical dimension (for example, assumptions or consequences).
-
-A well-designed flow makes it possible to stop after a shallow pass if time or energy is limited, without collapsing the whole space.
+- Participants feel yanked around between topics.
+- Emotional questions appear too early or too late.
+- Evidence questions appear only at the end, after decisions are already emotionally committed.
+- The space ends with high activation and no integration:
+  - no summary,
+  - no next steps,
+  - no naming of what changed.
 
 ## Recursion
 
-**Recursion** is the self-correcting layer of a question space.
+Recursion is the **space reflecting on itself**.
 
-It introduces **meta-questions** and **revision moves** that allow the space to evolve in response to what is discovered.
+It includes:
 
-### Purpose of Recursion
+- Meta questions about the conversation:
+  - what worked, what did not, what felt safe or unsafe.
+- Structural reflections:
+  - whether the Orientation, Topology, and Flow are still fit-for-purpose.
+- Adjustments:
+  - small changes in the moment,
+  - larger version changes over time.
 
-Recursion:
+Recursion is how question spaces **learn**.
 
-- Prevents the space from becoming rigid or dogmatic.
-- Ensures that unexpected insights are integrated back into the structure.
-- Allows reuse: question spaces can be refined across multiple uses.
+### Forms of Recursion
 
-In practice, recursion is what turns a question space from a static template into a **living tool**.
+There are at least three levels:
 
-### Meta-Questions
+- **In-session Meta**  
+  Reflection during or at the end of a session.
+  - “What became clearer today?”
+  - “What still feels fuzzy or risky?”
+  - “Did any question feel unfair or unsafe?”
 
-Recursion is often implemented through short, simple meta-questions, such as:
+- **Space-level review**  
+  After several uses of the same space.
+  - “What does this pattern consistently surface well?”
+  - “What does it consistently miss (for example, power, emotion, evidence)?”
+  - “Are our assumptions still valid?”
 
-- What became clearer after this round of questions?
-- What feels more confusing or unsettled now?
-- Which perspectives did we not hear or explore?
-- Which dimension did we overuse? Which dimension did we ignore?
-- Did we drift away from our original Orientation? Should we adjust it?
+- **Versioning and reset**  
+  When context has changed enough that the space needs a new version, or to be retired.
 
-These can be asked:
+### Recursion and epistemic quality
 
-- After a specific dimension.
-- At the end of a flow.
-- When the conversation feels stuck or emotionally loaded.
+Recursion is where you integrate **Evidence & Uncertainty** at the framework level:
 
-### Structural Adjustments
+- “Where did this space rely on assumptions that turned out wrong?”
+- “Have we seen situations where using this space correlated with bad outcomes?”
+- “Where did we overestimate our certainty?”
 
-Recursion can also change the **structure** of the question space:
+The goal is not perfection, but **honest updating**.
 
-- Updating Orientation if the real problem turns out to be different.
-- Adding or removing dimensions in the topology.
-- Reordering flow to reflect what actually works better.
-- Splitting a complex space into two simpler ones.
+### Recursion and limits
 
-Example:
+Recursion is also where you respect **scope and limits**:
 
-- You design a question space for “project risk diagnosis”.
-- In practice, you notice that people get defensive in the Assumptions segment.
-- Recursion: you insert a short Values & Impact segment before Assumptions to establish shared goals and reduce defensiveness.
+- “Did we drift into topics that belong with therapy, legal counsel, or medical advice?”
+- “Did any question touch on areas that felt beyond what this context can safely hold?”
+- “Should we add clearer boundaries or disclaimers to Orientation next time?”
 
-Over time, this turns into a **new version** of the question space that is more humane and effective.
+If the answer is yes, the responsible move is to:
 
-## How the Layers Work Together
+- tighten scope,
+- add explicit limits,
+- and adjust flows that lead into unsafe territory.
 
-The four layers are not steps; they are **aspects** of the same artifact.
+### Signs of missing Recursion
 
-A simple way to keep them in mind:
+- The same space is reused despite obvious misfit in new contexts.
+- Feedback is collected but never changes the structure.
+- People report feeling uneasy or drained, and nothing in the space is updated.
+- The framework remains static even as the organization, market, or culture changes significantly.
 
-- **Orientation** – Are we clear on why this space exists?
-- **Topology** – Have we chosen the right dimensions and perspectives?
-- **Flow** – Is there a humane, understandable way to move through them?
-- **Recursion** – Do we have mechanisms to notice and correct misfits?
+## How the Four Layers Interact
 
-When designing or evaluating a question space, you can use these as a quick checklist:
+The four layers are not independent; they influence each other.
 
-- If conversations feel aimless → Orientation is weak.
-- If blind spots keep appearing → Topology is incomplete or unbalanced.
-- If people feel overwhelmed or lost → Flow needs adjustment.
-- If the space never improves across uses → Recursion is missing.
+A few common interaction patterns:
 
-The next chapters go deeper into:
+- **Orientation → Topology**  
+  Clear intent and scope make it easier to choose relevance:
+  - For example, “Stabilize a tense client–vendor relationship” almost forces you to include:
+    - Clarification, Assumptions, Boundaries, Value & Impact, Emotion & Needs.
 
-- The catalog of **Dimensions of Inquiry** (Topology).
-- The **Modes and Lifecycle** of question spaces (how they evolve through setup, stabilization, and growth).
-- Practical methods to construct and refine spaces using this architecture.
+- **Orientation → Flow**  
+  If the relational goal is “direct but safe”, Flow must:
+  - avoid sudden emotional exposure,
+  - avoid interrogation downwards,
+  - and include at least a small Meta closure.
+
+- **Topology → Flow**  
+  The more dimensions you include, the more critical it is to design a simple path:
+  - without good Flow, rich Topology becomes chaos.
+
+- **Flow → Recursion**  
+  Meta moments are **part of flow design**, not an afterthought.
+  - If you never schedule Meta, Recursion never happens.
+
+- **Recursion → Orientation/Topology/Flow**  
+  Over time, recursion changes:
+  - why you use a space (Orientation),
+  - which dimensions belong (Topology),
+  - and which sequences work best (Flow).
+
+A question space is “healthy” when:
+
+- Orientation is explicit and ethically grounded.
+- Topology matches the context, power, and mode.
+- Flow respects human limits and cognitive load.
+- Recursion turns experience into updates, not guilt.
+
+## Using the Architecture in Practice
+
+When designing or debugging a space, you can ask:
+
+- Orientation  
+  “Is our intent clear, including who this is for, how it should feel, and what is out of scope?”
+
+- Topology  
+  “Have we chosen dimensions that match this situation, or are we just using our favorites?”
+
+- Flow  
+  “Are we entering and exiting in ways that feel safe and useful for these people, in this power context?”
+
+- Recursion  
+  “Where do we explicitly ask how this is working and what needs to change?”
+
+This architecture gives you a **map of levers**:
+
+- If people are confused about why they’re here → adjust Orientation.
+- If important aspects are invisible → adjust Topology.
+- If conversations feel chaotic or unsafe → adjust Flow.
+- If the framework itself stops fitting reality → strengthen Recursion.
+
+The next chapters show how to use this architecture to build concrete question spaces, and how to apply them across domains like software delivery, consulting, personal reflection, and music production.
 
 # Dimensions of Inquiry
 
