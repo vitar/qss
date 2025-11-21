@@ -6,8 +6,6 @@ The goal is simple:
 
 > Give you a clear, practical image of “a question space” so you can recognize it, design it, and reuse it.
 
----
-
 ## Working Definition
 
 A **Question Space** is:
@@ -24,8 +22,6 @@ Key aspects:
 You can think of it as the cognitive equivalent of **room acoustics**:
 - The room does not tell you *what to say*.
 - But it strongly influences *how well* you hear each other and *what becomes audible*.
-
----
 
 ## Core Characteristics
 
@@ -80,8 +76,6 @@ A question space includes **meta-questions** that revisit the space itself:
 
 These recursive moves allow the space to **evolve** instead of staying static.
 
----
-
 ## What a Question Space Is Not
 
 It is important to contrast question spaces with related but different artifacts.
@@ -125,8 +119,6 @@ A question space can integrate frameworks, but it remains:
 - More **fluid** (dimensions can be added, removed, or reordered).
 - More **context-driven** (you select dimensions that fit the situation, not the template).
 
----
-
 ## What a Question Space Does in Practice
 
 When used well, a question space:
@@ -143,8 +135,6 @@ When used well, a question space:
 In short:
 
 > A question space changes the quality of thinking and relating, not just the quantity of information.
-
----
 
 ## Three Short Illustrative Examples
 
@@ -172,8 +162,6 @@ These are intentionally simplified to make the shape visible.
 This is a **question space**, not a one-time meeting agenda.  
 It can be reused and adapted for future client–vendor engagements.
 
----
-
 ### Example 2 – Personal Role Transition Reflection
 
 **Orientation**  
@@ -192,8 +180,6 @@ It can be reused and adapted for future client–vendor engagements.
 - “After walking through this, what feels more stable in your decision? What still feels unsettled?”
 
 Again, this is a **reusable reflective space**, not just a set of coaching questions.
-
----
 
 ### Example 3 – Music Production Direction (Live vs Studio Vibe)
 
@@ -215,8 +201,6 @@ Again, this is a **reusable reflective space**, not just a set of coaching quest
 
 This space helps **surface trade-offs** and **align intent** with artistic and audience impact.
 
----
-
 ## How This Chapter Connects to the Rest of QSS
 
 - The **Vision, Principles, and Beliefs** explain *why* question spaces matter and what values they serve.
@@ -230,3 +214,4 @@ You can treat this chapter as the reference point whenever you ask:
 
 > “Are we actually designing a question space here,  
 > or just collecting a list of questions?”
+
