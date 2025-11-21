@@ -1596,8 +1596,8 @@ This chapter describes **recurring patterns** that make question spaces effectiv
 
 The goal is not to enforce rules, but to give you:
 
-- A **vocabulary** for what “good practice” looks like in QSS.
-- A **radar** for noticing when a space is drifting into something unhelpful or harmful.
+- A vocabulary for what “good practice” looks like in QSS.
+- A radar for noticing when a space is drifting into something unhelpful or harmful.
 
 Use this as a design checklist and a self-audit tool.
 
@@ -1614,7 +1614,8 @@ Turn emotional or cognitive friction into structured curiosity instead of argume
 **Shape**
 
 - Acknowledge the tension.
-- Redirect into a dimension that can hold it safely (often Clarification, Assumptions, or Value & Impact).
+- Redirect into a dimension that can hold it safely:
+  - often Clarification, Assumptions, Value & Impact, or Emotion & Needs.
 - Move from accusation (“You did…”) to perspective (“What did you see / expect / intend?”).
 
 **Example moves**
@@ -1637,11 +1638,11 @@ Move from vague talk to real choices and their impacts, without getting stuck in
 
 **Shape**
 
-1. **Clarify**  
+1. Clarify  
    Make sure everyone is talking about the same thing.
-2. **Contrast**  
+2. Contrast  
    Explore alternative paths, options, or framings.
-3. **Consequence**  
+3. Consequence  
    Ask what each option implies for people, systems, and time.
 
 **Example flow**
@@ -1654,7 +1655,7 @@ Move from vague talk to real choices and their impacts, without getting stuck in
 
 - Design decisions (product, architecture, process).
 - Strategic choices with multiple viable options.
-- Personal career / life decisions with trade-offs.
+- Personal career or life decisions with trade-offs.
 
 ### Zoom Out → Reframe → Zoom In
 
@@ -1664,11 +1665,11 @@ Break out of local arguments by reconnecting to the bigger picture, then re-ente
 
 **Shape**
 
-1. **Zoom Out**  
+1. Zoom Out  
    Move to a higher level of abstraction or a longer time horizon.
-2. **Reframe**  
+2. Reframe  
    Ask whether the problem looks different from that vantage point.
-3. **Zoom In**  
+3. Zoom In  
    Return to the specifics with the new frame in mind.
 
 **Example flow**
@@ -1691,8 +1692,9 @@ Make different perspectives explicit and comparable instead of letting them clas
 
 **Shape**
 
-- Identify the key perspectives (for example, client, vendor, end-user; individual, team, organization).
-- Ask similar value/impact or consequence questions from each perspective.
+- Identify the key perspectives:
+  - for example, client, vendor, end-user; individual, team, organization.
+- Ask similar Value & Impact or Consequence questions from each perspective.
 - Place answers side by side.
 
 **Example moves**
@@ -1715,16 +1717,19 @@ Avoid overwhelming people while still allowing depth where it truly matters.
 
 **Shape**
 
-1. Do a **shallow pass** across several dimensions:
-   - One or two questions per dimension.
-2. Use Meta questions to notice where there is energy, confusion, or tension.
-3. **Deep dive** selectively into one or two dimensions that matter most.
+1. Do a shallow pass across several dimensions:
+   - one or two questions per dimension.
+2. Use Meta and Emotion & Needs questions to notice where there is energy, confusion, or tension.
+3. Deep dive selectively into one or two dimensions that matter most.
 
 **Example flow**
 
-- Shallow pass: quick Clarification → Value & Impact → Assumptions → Consequence.
-- Meta: “Which part of this feels most unclear or risky to you now?”
-- Deep dive: focus more questions on that dimension and related perspectives.
+- Shallow pass:
+  - quick Clarification → Value & Impact → Assumptions → Emotion & Needs → Evidence & Uncertainty.
+- Meta:
+  - “Which part of this feels most unclear or risky to you now?”
+- Deep dive:
+  - focus more questions on that dimension and related perspectives.
 
 **When to apply**
 
@@ -1757,6 +1762,70 @@ Start from impact and work backward to mechanisms when stakes are high.
 - Safety, security, or ethics-related choices.
 - Situations where people are tempted to optimize local convenience over global impact.
 
+### Evidence-Aware Questioning
+
+**Intent**
+
+Keep track of what is known, what is guessed, and how confident we are, without turning the space into a courtroom.
+
+**Shape**
+
+- Separate observation, data, and story:
+  - “What have we actually seen?”  
+  - “What have we measured?”  
+  - “What are we inferring?”
+- Explicitly mark uncertainty:
+  - high, medium, low.
+- Link decisions to the level of uncertainty:
+  - more uncertainty → smaller, more reversible bets.
+
+**Example moves**
+
+- “What do we know about this from direct observation or data?”
+- “What parts of our story are assumptions? How big is the bet if we are wrong?”
+- “If we had one measurement or experiment to reduce uncertainty, what would it be?”
+
+**When to apply**
+
+- Roadmap prioritization.
+- Architecture choices with performance or cost implications.
+- Any conflict where “facts” are disputed.
+
+### Power-Aware Facilitation
+
+**Intent**
+
+Design and phrase questions in a way that acknowledges power differences and protects psychological safety.
+
+**Shape**
+
+- Ask: “Who has authority here? Who carries more risk?” before choosing question types.
+- If you are in power, use more:
+  - system-focused questions (“what in our setup makes this likely?”),
+  - self-accountability questions (“what expectations did I create?”),
+  - and fewer “why did you…” questions aimed downward.
+- Use formats that reduce exposure for lower-power participants:
+  - written input, group-level questions, opt-out allowed.
+
+**Example moves**
+
+From a manager to a team:
+
+- “What in our current process makes it hard for you to speak up early?”  
+- “What expectations have I set that may be unrealistic or unclear?”  
+- “If you could change one thing about how we work together, what would help you most?”
+
+From a vendor lead to a client:
+
+- “I want to use this space to understand where we have failed your expectations and how we can repair that. If any question feels unfair or defensive, please say so.”
+
+**When to apply**
+
+- Always, but especially:
+  - manager–team conversations,
+  - client–vendor escalations,
+  - cross-level retrospectives.
+
 ### Versioning and Recursion
 
 **Intent**
@@ -1767,25 +1836,25 @@ Treat question spaces as evolving tools, not fixed scripts.
 
 - Regularly ask Meta questions about the space itself:
   - “What did this question space consistently help us see?”
-  - “What did it consistently miss?”
-- Adjust Orientation, Topology, or Flow based on observed patterns.
-- Name versions (for example, v1, v1.1) when significant changes are made.
+  - “Where did it consistently miss important aspects?”
+- Adjust Orientation, Topology, Flow, and use of Emotion/Evidence based on observed patterns.
+- Name versions (v1, v1.1, v2) when significant changes are made.
 
 **Example moves**
 
 - “In the last three uses of this space, we kept discovering that we under-explore assumptions. How should we adjust the structure?”
-- “Participants report feeling rushed in the consequences segment. Should we shorten earlier sections or create a separate follow-up space?”
-- “This space was designed for on-site teams. Which assumptions no longer hold in hybrid setups?”
+- “Participants report feeling rushed when we get to consequences. Should we shorten earlier sections or split this into two separate sessions?”
+- “This space was designed for on-site teams. Which assumptions no longer hold in our hybrid setup?”
 
 **When to apply**
 
 - After repeated use of the same space.
 - When feedback or results suggest misfit.
-- When the underlying context (tools, culture, market) shifts.
+- When the underlying context (tools, culture, market, power structures) shifts.
 
 ## Core Anti-Patterns
 
-Anti-patterns are failure modes where something *looks* like a question space but doesn’t behave like one.
+Anti-patterns are failure modes where something looks like a question space but doesn’t behave like one.
 
 ### Interrogation Disguised as Inquiry
 
@@ -1795,10 +1864,12 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 - The real intent is to assign blame, prove a point, or dominate.
 - People withdraw, become defensive, or answer minimally.
 
+This is especially harmful when coming from a **higher-power position** (manager, client, senior expert).
+
 **Why it breaks QSS**
 
 - Violates principles of safety and curiosity.
-- Destroys willingness to explore assumptions honestly.
+- Destroys willingness to explore assumptions and emotions honestly.
 - Converts the question space into a power tool, not a clarity tool.
 
 **Counter-pattern**
@@ -1806,7 +1877,9 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 - Switch to Friction-to-Curiosity moves.
 - Make Orientation explicit and shared:
   - “We’re not here to find who is at fault; we’re here to understand how the system produced this outcome.”
-- Add Meta questions about emotional experience:
+- Ask self-accountability questions if you are in power:
+  - “What expectations did I set or fail to set?”
+- Add Meta questions about experience:
   - “How is this conversation landing for you so far?”
 
 ### Question Spam (Wall of Questions)
@@ -1815,7 +1888,7 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 
 - Long lists of questions with no structure.
 - No sense of priority or flow.
-- Participants feel overwhelmed and don’t know where to start.
+- Participants feel overwhelmed and do not know where to start.
 
 **Why it breaks QSS**
 
@@ -1849,7 +1922,7 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 - Strip the space to essentials for one context.
 - Ask:
   - “What can we remove without losing the core function?”
-- Test the stripped-down version in a real conversation.
+- Test the stripped-down version in a real conversation before adding back complexity.
 
 ### Framework Worship
 
@@ -1890,18 +1963,21 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 
 - Limit Meta checkpoints to key moments (for example, after a dimension or at the end).
 - Pair Meta with clear next moves:
-  - “What became clearer, and what’s one concrete step we can take now?”
-- If Meta keeps increasing, check Orientation: maybe the topic itself is mis-scoped.
+  - “What became clearer, and what is one concrete step we can take now?”
+- If Meta keeps increasing, check Orientation:
+  - maybe the topic itself is mis-scoped.
 
 ### Comfort-Dimension Looping
 
 **Smell**
 
 - Staying only in one dimension because it feels safe:
-  - Clarification forever (talking about definitions).
-  - Assumptions forever (endless “what ifs”).
-  - Value talk forever (lofty goals with no specifics).
-- Other dimensions (like Consequences or Boundaries) are avoided.
+  - Clarification forever (talking about definitions),
+  - Assumptions forever (endless “what ifs”),
+  - Value talk forever (lofty goals with no specifics),
+  - Evidence forever (analysis paralysis),
+  - Emotion forever (processing feelings without decisions).
+- Other dimensions are ignored.
 
 **Why it breaks QSS**
 
@@ -1914,8 +1990,9 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 - Use Meta questions to notice:
   - “Have we been staying in one kind of question too long?”
 - Deliberately add a contrasting dimension to the flow:
-  - From Clarification to Consequences.
-  - From Value talk to Boundaries & Ownership.
+  - from Clarification to Consequences,
+  - from Emotion to Evidence,
+  - from Value talk to Boundaries & Ownership.
 
 ### Pseudo-Neutral Manipulation
 
@@ -1924,6 +2001,8 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 - Questions are phrased as neutral but are clearly steering toward a desired answer.
 - The designer or facilitator has a hidden agenda.
 - Participants sense the bias and disengage or comply without trust.
+
+When the manipulator holds power, this becomes coercive.
 
 **Why it breaks QSS**
 
@@ -1935,28 +2014,78 @@ Anti-patterns are failure modes where something *looks* like a question space bu
 
 - Make intentions explicit:
   - “I have a strong preference for X; I want to check whether it actually fits our goals.”
+- Separate exploration from advocacy:
+  - “Let’s first map options and impacts, then I’ll share my recommendation.”
 - Allow space for disagreement:
   - “What about this direction worries you?”
-- Separate exploration and advocacy phases.
+
+### Evidence Blindness and Story-Over-Fact
+
+**Smell**
+
+- Strong narratives about “how things are” with no reference to observation or data.
+- Confident estimates that repeatedly fail, without re-examining assumptions.
+- Dismissing uncomfortable evidence because it contradicts a preferred story.
+
+**Why it breaks QSS**
+
+- Violates the Evidence & Uncertainty dimension.
+- Hardens speculation into pseudo-facts.
+- Leads to repeated surprises and “unforeseen” failures that were, in fact, foreseeable.
+
+**Counter-pattern**
+
+- Bring in Evidence & Uncertainty:
+  - “What have we actually observed?”  
+  - “Where might our story be wrong?”
+- Normalize uncertainty:
+  - “Not knowing is not a failure; it is a signal to learn or hedge.”
+- Scale decisions to confidence:
+  - bigger bets require stronger evidence.
+
+### Safety Blindness
+
+**Smell**
+
+- Emotional distress is visible but ignored:
+  - tears, withdrawal, obvious agitation.
+- Power asymmetries are obvious but not acknowledged.
+- Sensitive topics (identity, discrimination, burnout, trauma) are probed without care.
+- The space continues as if “more questions” is always better.
+
+**Why it breaks QSS**
+
+- Violates the limits and scope of QSS.
+- Can actively harm participants.
+- Converts the space into an unsafe environment, especially for lower-power people.
+
+**Counter-pattern**
+
+- Watch for emotional and relational signals:
+  - “You seem tense / quiet. Do we need a break or a different format?”
+- Stay within scope:
+  - present and near-future feelings related to this context, not deep personal history.
+- Pause when needed:
+  - “This sounds heavier than what this work context can hold. It might be better to continue this with someone you trust or a professional.”
 
 ## Using Patterns and Anti-Patterns as a Checklist
 
 When designing or evaluating a question space, you can quickly ask:
 
-- Are we using at least one **healthy pattern** (for example, Clarify → Contrast → Consequence)?
-- Are we avoiding core **anti-patterns** (interrogation, question spam, over-engineering)?
+- Are we using at least one healthy pattern (for example, Clarify → Contrast → Consequence, Friction → Curiosity, Evidence-Aware Questioning, Power-Aware Facilitation)?
+- Are we avoiding core anti-patterns (interrogation, question spam, over-engineering, evidence blindness, safety blindness)?
 - Does this space:
   - Reduce friction or amplify it?
-  - Make consequences visible?
-  - Respect multiple perspectives?
+  - Make consequences and uncertainty visible?
+  - Respect multiple perspectives and power realities?
   - Allow for versioning and learning?
 
 If the answers are weak or negative, you have clear hints on where to adjust:
 
 - Simplify the structure.
 - Add or swap dimensions.
-- Introduce or reduce Meta checkpoints.
-- Make Orientation explicit and shared.
+- Introduce or reduce Meta and Emotion & Needs checkpoints.
+- Make Orientation, evidence level, and limits explicit.
 
 Patterns and anti-patterns are not rules; they are **guides to keep question spaces humane, effective, and adaptable** as you use QSS in different domains.
 
