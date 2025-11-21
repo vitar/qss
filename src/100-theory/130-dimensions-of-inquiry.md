@@ -25,6 +25,7 @@ The dimensions covered here:
 - Assumptions
 - Boundaries & Ownership
 - Value & Impact
+- Emotional & Relational Field / Needs
 - Contrast & Alternatives
 - Causality & Consequence
 - Layering / Abstraction
@@ -113,7 +114,7 @@ Boundary questions define **what is inside or outside the system**, and **who ho
 
 ### When to use it
 
-- In cross-team or cross-organization work (e.g., client–vendor).
+- In cross-team or cross-organization work (for example, client–vendor).
 - When tasks fall “between chairs”.
 - When people assume someone else is taking care of something important.
 
@@ -170,6 +171,56 @@ Value & Impact questions focus on **who benefits or suffers** from outcomes, and
 - Reducing value to only financial or only emotional dimensions.
 - Treating all stakeholders as equally important when they clearly are not.
 - Over-focusing on immediate impact and ignoring longer-term consequences.
+
+## Emotional & Relational Field / Needs
+
+Emotional & Relational questions make the **felt experience** and **basic relational needs** visible enough that they stop silently sabotaging everything else.
+
+### What it is for
+
+- Surfacing how the situation *feels* to the people involved.
+- Naming needs that, if chronically unmet, will undermine any agreement:
+  - safety, respect, predictability, fairness, belonging, autonomy, recognition.
+- Reducing hidden emotional friction that logic alone cannot fix.
+
+### When to use it
+
+- Setup Mode:
+  - Lightly, to sense the emotional baseline (“how does this collaboration feel so far?”).
+- Stabilization Mode:
+  - More explicitly, when frustration, fear, or resentment are already in the room.
+- Growth Mode:
+  - To design not only *what* should happen, but *how it should feel* when things go well.
+
+### Signs it is missing
+
+- People intellectually agree, but their body language and tone say “no”.
+- Changes are “agreed” but not enacted; follow-through quietly collapses.
+- Escalations feel disproportionate to the official issues.
+- Phrases like “all good” or “it’s fine” appear while energy is flat or tense.
+
+### Example question patterns
+
+These stay in the **present and near-future** and avoid turning the space into therapy:
+
+- “Right now, does this setup feel more ‘supportive’ or ‘draining’ for you? What makes it that way?”
+- “What’s one thing in how we work together that makes it easier for you to do your best work? One thing that makes it harder?”
+- “Is there anything about our current collaboration that quietly erodes your trust or energy?”
+- “What do you need more of (or less of) here to feel this is sustainable?”
+- “If this change goes well, how would the day-to-day *feel* different for you?”
+
+### Pitfalls
+
+- Turning the space into armchair therapy:
+  - Going into deep personal history, trauma, or topics that belong with professional support.
+- Over-exposing people:
+  - Pushing for vulnerability when power dynamics or psychological safety are not sufficient.
+- Pathologizing normal emotion:
+  - Treating anger, fear, or sadness as “wrong” instead of as signals.
+- Ignoring the answers:
+  - Surfacing emotional reality and then proceeding as if nothing was said.
+
+The Emotion & Needs dimension is about **making the relational field visible enough to design responsibly**, not about providing mental health care. When distress appears that clearly exceeds the work context, the appropriate move is to acknowledge it and, if relevant, suggest seeking support beyond this space.
 
 ## Contrast & Alternatives
 
@@ -359,12 +410,12 @@ Instead, you:
 Examples of dimension selections:
 
 - Early client–vendor alignment:
-  - Clarification, Assumptions, Boundaries & Ownership, Value & Impact, Causality & Consequence.
+  - Clarification, Assumptions, Boundaries & Ownership, Value & Impact, Emotional & Relational Field / Needs, Causality & Consequence.
 - Internal team conflict:
-  - Clarification, Assumptions, Boundaries & Ownership, Value & Impact, Meta.
+  - Clarification, Assumptions, Emotional & Relational Field / Needs, Boundaries & Ownership, Value & Impact, Meta.
 - Personal career reflection:
-  - Value & Impact, Temporal, Layering, Meta.
+  - Value & Impact, Emotional & Relational Field / Needs, Temporal, Layering, Meta.
 - Creative direction for a recording:
-  - Contrast & Alternatives, Value & Impact, Causality & Consequence, Layering.
+  - Contrast & Alternatives, Value & Impact, Emotional & Relational Field / Needs, Causality & Consequence, Layering.
 
-The next chapter, on **Modes and Lifecycle**, will show how these dimensions behave differently in Setup, Stabilization, and Growth modes of a question space.
+The next chapter, on **Modes and Lifecycle**, shows how these dimensions behave differently in Setup, Stabilization, and Growth modes of a question space.
