@@ -18,7 +18,7 @@ Use this when you define any new space.
 
 ## Name
 
-Short, practical label:
+Short, practical label:  
 - Example: “Client Setup – Fixed Bid”
 - Example: “Role Decision – Stay or Pivot”
 - Example: “Band – Mix Direction”
@@ -38,7 +38,7 @@ Short, practical label:
 
 ## Topology (Dimensions)
 
-Active dimensions:
+Active dimensions:  
 - Clarification:
 - Assumptions:
 - Boundaries & Ownership:
@@ -51,14 +51,14 @@ Active dimensions:
 - Evidence & Uncertainty:
 - Meta / Reflexive:
 
-Notes:
+Notes:  
 - Dimensions to lean on:
 - Dimensions to keep light:
 - Dimensions explicitly excluded (and why):
 
 ## Flow
 
-Entry:
+Entry:  
 - Opening tone / statement:
 - 1–2 entry questions:
 
@@ -67,14 +67,14 @@ Sequence:
 - Segment 2:
 - Segment 3:
 
-Branches:
+Branches:  
 - If X signal appears → go to:
 - If Y signal appears → go to:
 
-Depth limits:
+Depth limits:  
 - “No more than N questions in [dimension] unless…”
 
-Exit:
+Exit:  
 - How to land (summary, decisions, feelings):
 - 1–2 exit questions:
 
