@@ -1,344 +1,375 @@
 # Context Intake and Orientation
 
-Before you build any question space, you need to understand:
+Before you design a question space, you need a **sharp picture of the situation**.
 
-- What situation you are stepping into.
-- Who is involved and who is affected.
-- How safe it is to ask certain kinds of questions.
-- What this space is actually for.
+Context intake is how you:
 
-This chapter turns that into a **minimal but deliberate intake process**.
+- avoid asking clever questions about the wrong thing,
+- choose a sane Mode (Setup, Stabilization, Growth),
+- and set guardrails for power, safety, and scope.
 
-You can use it as:
+This chapter gives you a **minimal, reusable intake spine** and shows how to turn it into Orientation.  
+It assumes you already skimmed the Theory section; here we stay practical.
 
-- A checklist before designing a new space.
-- A quick diagnostic when an existing space feels “off”.
-- A shared framing tool for group work (client–vendor, team, band).
+## Why context intake matters
 
-## Why Orientation Comes First
+If you skip intake, you risk:
 
-A question space is not just “good questions”.  
-It is an intervention in a real system with:
+- addressing symptoms instead of patterns,
+- pulling people into unsafe territory,
+- treating structural problems as personal failings,
+- or, in the worst case, doing harm by interrogating someone with low power.
 
-- people,
-- power,
-- history,
-- constraints,
-- and consequences.
+A small amount of intake:
 
-If Orientation is fuzzy, you will:
+- protects participants,
+- keeps QSS honest about its limits,
+- and makes later design choices (topology, flow, recursion) easier.
 
-- choose the wrong dimensions,
-- design flows that feel unsafe or irrelevant,
-- drift into areas that are outside your role or scope,
-- or create good insights that nobody can actually use.
+You do not need a giant questionnaire. You need a **clear enough picture**.
 
-Good intake makes your later design choices **conscious** instead of accidental.
+## A minimal intake spine
 
-## The Intake Skeleton
+You can think of intake as five questions:
 
-Every context intake can follow the same skeleton:
+1. What is happening, and where?  
+2. Who is involved, and how is power distributed?  
+3. How safe is it to talk honestly here, and what is out of scope?  
+4. What do we want from this space (cognitive + relational)?  
+5. What constraints and format are we working with?
 
-1. Situation snapshot  
-2. Mode assessment (Setup, Stabilization, Growth)  
-3. Stakeholders and power map  
-4. Safety and scope check  
-5. Intent and outcomes  
-6. Constraints (time, format, language)  
-7. Draft Orientation statement
+We’ll walk these as **Step 1–5**, then show how to convert them into Orientation.
 
-The rest of this chapter walks through each step with examples and prompts.
+Along the way, there is one small but important “executable” guardrail:  
+a **Safety Check** that tells you when not to use direct interrogation patterns.
 
-You can do this in your head in 2–5 minutes for small situations, or write it down for bigger ones.
+## Step 1 – Situation snapshot
 
-## Step 1 – Situation Snapshot
+Goal: get a compact description of what is going on **right now**.
 
-Start by answering very simply:
+Prompt yourself (or the requester):
 
-- What is happening?
-- Where is it happening?
-- Who is directly involved?
+- “In one or two sentences, what is happening?”
+- “Is this about:
+  - starting something new,
+  - fixing something that is slipping,
+  - or improving something that basically works?”
 
-Useful prompts:
+Capture:
 
-- “What is the event or context?”  
-  Examples:
-  - “New fixed-bid project with tight deadline.”
-  - “Escalation about missed milestones.”
-  - “1:1 with tech lead about burnout.”
-  - “Decision about mixing direction for live album.”
-- “What is the rough timeline?”  
-  - Is this urgent? Chronic? New?
-- “What has already been tried?”  
-  - Past attempts at alignment, retro, escalation, etc.
+- Domain:
+  - work, consulting, internal team, personal, creative.
+- Object:
+  - project, relationship, decision, pattern, event.
+- Temperature:
+  - calm, tense, crisis-adjacent.
 
-Keep it short. One small paragraph is enough.
+Mode hint:
 
-Example:
+- If it is mostly about **starting or framing** → lean Setup.
+- If it is mostly about **slip, tension, or escalation** → lean Stabilization.
+- If it is mostly about **improvement, direction, or learning** → lean Growth.
 
-- “Vendor team and client product owner are misaligned about scope and delivery pace on a fixed-bid project. Two status calls ended in frustration. Vendor leadership asked me to ‘fix communication’ before escalation reaches C-level.”
+You can adjust Mode later, but pick a starting guess.
 
-## Step 2 – Mode Assessment
+## Step 2 – Stakeholders and power
 
-Decide which mode you are in:
+Goal: understand **who is in the system** and **how power and risk are distributed**.
 
-- Setup:  
-  before things go wrong; structuring a new collaboration, role, or decision.
-- Stabilization:  
-  things are wobbly, tense, confusing, or slipping.
-- Growth:  
-  things basically work; you want to deepen, generalize, explore potential.
+Ask:
 
-Quick questions:
+- “Who is in the room (or in the conversation)?”
+- “Who is not in the room but strongly affected?”
+- “Who has more formal authority here?”
+- “Who carries more risk if things go badly?”
+- “Is participation voluntary for everyone?”
 
-- “Are we mostly trying to prevent a bad outcome, stop a slide, or design a better future?”
-- “Is the dominant energy: hope, confusion, or frustration?”
-- “If we do nothing, do we expect immediate harm, slow erosion, or mostly missed opportunities?”
+You can quickly label power asymmetry on a rough scale:
 
-Examples:
+- Power Asymmetry:
+  - Low:
+    - peers, similar risk.
+  - Medium:
+    - some hierarchy, but relatively safe to disagree.
+  - High:
+    - strong hierarchy, job/contract/grade risk for some participants.
 
-- New client kickoff → Setup.  
-- Project slipping with complaints → Stabilization.  
-- Mature band planning next creative direction → Growth.
+Note:
 
-You do not need precision. You just need a **dominant mode** to guide design.
+- High asymmetry is not automatically bad; it just changes which questions are safe.
+- Ignoring asymmetry is what causes harm.
 
-## Step 3 – Stakeholders and Power Map
+## Step 3 – Safety and scope
 
-Name the key people and groups:
+Goal: define **how safe it is to speak honestly** and **what this space is not allowed to hold**.
 
-- Who is inside the conversation?
-- Who is outside but strongly affected?
-- Who has more formal power and influence?
-- Who carries more risk (job, contract, reputation, visa, income)?
+Ask:
 
-Prompts:
+- “How safe does it feel (for each participant) to:
+  - disagree,
+  - say ‘I don’t know’,
+  - name problems that involve higher power people?”
+- “Has anyone been punished directly or indirectly for speaking up in similar situations?”
+- “Are there topics that are clearly too sensitive for this format?”
+  - clinical/mental health,
+  - legal disputes,
+  - HR-sensitive incidents,
+  - abuse/harassment.
 
-- “List the roles, not just the names.”  
-  For example:
-  - client sponsor, product owner, vendor PM, vendor tech lead, dev team, users, band members, FOH engineer, audience.
-- “For each, ask: power and risk.”
+Roughly rate **felt safety**:
 
-Simple grid in your head or notes:
+- Safety:
+  - High:
+    - people routinely disagree without punishment;
+      someone in power is explicitly protecting the space.
+  - Medium:
+    - people are cautious but can speak, with some hesitation.
+  - Low:
+    - visible fear, history of negative consequences, or clear reason not to trust.
 
-- Higher power, lower risk:
-  - client sponsor, executive, manager.
-- Lower power, higher risk:
-  - vendor team, ICs, juniors, contractors, freelancers.
-- Mixed:
-  - PMs, tech leads, band leaders, producers.
+### Safety Check (executable rule)
 
-This matters because:
+To make this usable for novices or AI, turn the above into a simple check:
 
-- It shapes which dimensions you can safely activate.
-- It changes how you phrase Emotion & Needs questions.
-- It changes whether certain questions feel like curiosity or interrogation.
+```text
+Power Asymmetry:  Low / Medium / High
+Safety:           Low / Medium / High
 
-Example:
+Safety Check = (Power Asymmetry == High) AND (Safety == Low)
+```
 
-- “Client PO has power over scope acceptance and commercial relationship. Vendor devs have low power but high risk if project is labeled ‘failure’. Vendor PM has medium formal power but high responsibility.”
+If **Safety Check = true**:
 
-## Step 4 – Safety and Scope Check
+* Treat this as a **WARNING** state:
 
-Ask yourself:
+  * Do **not** use:
 
-- “Is this the kind of situation QSS is meant for?”
+    * direct interrogation patterns,
+    * questions that single out lower-power individuals in front of higher-power ones,
+    * emotionally deep prompts directed at the least powerful person.
+* Prefer:
 
-QSS is for:
+  * system-level questions
 
-- Reflection, sense-making, alignment, decision support.
-- Non-emergency work and life contexts.
+    * (“What in our setup makes this hard?” instead of “Why are you not speaking up?”),
+  * anonymous or 1:1 inputs for sensitive content,
+  * written or async formats where appropriate,
+  * or, if stakes are high, **not running the space at all** until safety improves.
 
-QSS is not for:
+This check is deliberately simple:
 
-- Immediate crises with risk of harm or self-harm.
-- Legal decisions and disputes.
-- Medical diagnosis or treatment.
-- Deep therapeutic processing of trauma.
+* It doesn’t solve power or safety.
+* It prevents obvious misuses of QSS in contexts where it can do harm.
 
-Red flag prompts:
+### Scope boundaries
 
-- “Is anyone in immediate danger or at risk of self-harm?”  
-- “Is this primarily a legal or medical issue?”  
-- “Is someone showing severe distress that goes beyond this context?”  
-- “Am I being asked to judge or treat something I am not qualified for?”
+Explicitly mark what is out of scope:
 
-If any are yes:
+* “This space will not:
 
-- Do not proceed as if a question space is the main tool.
-- Instead:
-  - Acknowledge what you see (“this sounds heavier than what this context can hold”).
-  - Suggest appropriate support (manager, HR, trusted person, professional, doctor, lawyer).
-  - Use only very light, supportive questions if at all.
+  * give legal advice,
+  * diagnose health conditions,
+  * replace therapy,
+  * or handle acute crisis or abuse cases.”
 
-If scope is OK:
+If any of those are present:
 
-- Note any safety tension:
-  - “Strong power gap between client sponsor and vendor team.”
-  - “Burnout signals but not acute crisis.”
-  - “Band conflict is emotional but not abusive.”
+* acknowledge them,
+* and consider pausing or redirecting:
 
-These will inform how far you go with Emotion & Needs, Meta, and evidence challenges.
+  * “This sounds heavier than what this conversation is designed to hold.
+    It might be better to talk to [HR / doctor / therapist / lawyer / trusted person] about that part.”
 
-## Step 5 – Intent and Outcomes
+## Step 4 – Intent (cognitive and relational)
 
-Now answer:
+Goal: define **why** you are opening this space.
 
-- “What is this space for in this specific situation?”
-- “What would count as a good outcome for this session or space?”
+Ask:
 
-Separate:
+* “If this conversation went well, what would be different afterwards?”
+* “What do we want to understand, decide, or map?”
+* “What do we want the emotional/relational tone to be?”
 
-- Cognitive goals:
-  - clarity, mapping, decision, hypothesis.
-- Relational goals:
-  - tone, trust, predictability, fairness, energy.
+Capture:
 
-Prompts:
+* Cognitive goals:
 
-- “By the end of this conversation/space, I want us to have…”  
-  Examples:
-  - “a shared picture of the problem and constraints,”
-  - “a small set of concrete stabilizing actions,”
-  - “a clearer sense of which option fits my values and energy,”
-  - “a deliberate artistic choice we stand behind.”
+  * examples:
 
-- “Relationally, I want this to feel…”  
-  Examples:
-  - “honest but not brutal,”
-  - “direct but safe,”
-  - “exploratory, not judged,”
-  - “grounded and practical.”
+    * shared picture of the problem,
+    * agreed trade-offs,
+    * identified patterns, not just incidents,
+    * clearer decision criteria.
+* Relational goals:
 
-Avoid trying to accomplish everything. Choose one or two realistic outcomes.
+  * examples:
 
-Examples:
+    * preserve working relationship,
+    * restore predictability,
+    * give people a way to be heard,
+    * reduce fear, not increase it.
 
-- “Understand why our timelines keep slipping and agree on one change we all commit to for the next two sprints, in a way that keeps the client and team relationship workable.”
-- “Clarify my own reasons for staying or leaving this role, separating fear from values, without deciding today.”
-- “Decide whether this mix should lean toward raw live energy or polished audiophile sound, aligned with band identity and audience context.”
+This is where you apply your **personal sense of intention**:
 
-## Step 6 – Constraints
+* “Why am I asking these questions at all?”
+* “Am I trying to help, to explore, or to win?”
 
-Name practical constraints that will shape design:
+If the intent feels off (for example, “prove they’re wrong”), pause and reconsider.
 
-- Time:
-  - “We have 30 minutes,” “60 minutes,” “two hours workshop,” “solo 20-minute reflection.”
-- Format:
-  - in-person, remote, async, written questionnaire.
-- Language and culture:
-  - different native languages, cultural expectations of directness.
-- Recording and privacy:
-  - notes only, recording, anonymous input, visible board, etc.
+## Step 5 – Constraints and format
 
-Prompts:
+Goal: respect real-world limits.
 
-- “Given our time, which mode and depth are realistic?”
-- “Does the format affect safety or honesty?”
-  - Chat vs video vs in-person vs anonymous form.
-- “Is anything being recorded that might change what people will say?”
+Ask:
 
-Example:
+* “How much time do we actually have?”
+* “How many people will be involved?”
+* “Is this:
 
-- “One-hour remote call with client sponsor and vendor PM. Recording on. English as second language for both. Stakes are high (contract, reputation).”
+  * live,
+  * async,
+  * written,
+  * recorded?”
+* “Can people decline to answer or step out?”
 
-This will affect:
+Capture:
 
-- how fast you need to move (Quickstart vs deeper space),
-- how emotional you can safely get,
-- how you phrase questions.
+* Timebox:
 
-## Step 7 – Draft Orientation Statement
+  * 15 min, 30 min, 60 min, multi-session.
+* Format:
 
-Now combine:
+  * 1:1, small group, big group, email, survey, async notes.
+* Recording:
 
-- situation,
-- mode,
-- power/safety,
-- intent,
-- constraints
+  * whether notes or recordings will exist,
+  * who sees them.
 
-into a short Orientation statement.
+Constraints help you **right-size** the space:
 
-Template:
+* You can’t run a deep Growth-mode redesign in a 15-minute escalation slot.
+* You can, however, do:
 
-> “In this [mode] situation, with [these people and power dynamics],  
-> I want this question space to help us [cognitive goal] in a way that feels [relational goal],  
-> within [time/format constraints], while staying within scope (no [out-of-scope areas]).”
+  * a short Stabilization step,
+  * and design deeper follow-ups later.
 
-Examples:
+## Turning intake into Orientation
 
-Client–vendor stabilization:
+Once you have Steps 1–5, you can synthesize Orientation in one sentence:
 
-> “In this stabilization situation, with a client sponsor who holds commercial power and a vendor team under delivery pressure,  
-> I want this question space to help us understand why timelines keep slipping and agree on one stabilizing change for the next two sprints,  
-> in a way that feels honest but not blaming,  
-> within a 60-minute remote call, while staying within work context and not drifting into personal therapy or legal argument.”
+> “In this [Mode] situation, with [power picture and safety level],
+> I want this space to help [cognitive goals] in a way that feels [relational goals],
+> within [time/format], while staying within scope (no [out-of-scope areas]).”
 
-Personal role reflection:
+Example – client–vendor reset:
 
-> “In this personal reflection situation, where I alone hold decision power but am affected by organizational politics,  
-> I want this space to help me clarify whether this new role fits my values, energy, and desired impact over the next 2–3 years,  
-> in a way that feels honest and kind to myself,  
-> within a 30-minute written reflection, staying within career/work context and not trying to resolve all past life history.”
+> “In this Stabilization situation, with the client holding commercial power and the vendor under delivery pressure,
+> I want this space to help us see how we drifted and agree on one or two stabilizing changes,
+> in a way that is honest but non-blaming,
+> within a 60-minute joint call, staying within work context (no legal renegotiation, no therapy).”
 
-Music production:
+Example – personal role reflection:
 
-> “In this Growth-mode creative decision, with equal power between band members but strong emotions about identity,  
-> I want this question space to help us choose between a raw live mix and a more polished sound that fits our band’s identity and audience,  
-> in a way that feels respectful and collaborative,  
-> within a 45-minute rehearsal discussion, staying within creative and practical constraints and not turning into a debate about personal worth.”
+> “In this Growth-ish personal situation, where I’m considering staying, shifting, or leaving my current role,
+> I want this space to help me see how this path fits my values, energy, and plausible futures,
+> in a way that is honest and kind to myself,
+> within a 45-minute written reflection, staying within work/career and not trying to solve my entire life story.”
 
-You do not need perfect wording. The purpose is to:
+Orientation is your **compass**:
 
-- give you a clear mental anchor,
-- and later explain to others what the space is trying to do.
+* it guides topology selection,
+* shapes flow,
+* and grounds recursion:
 
-## Using Orientation with Others
+  * when you review later, you can ask:
 
-You can share Orientation explicitly or partially, depending on context and power.
+    * “Did this space actually serve its Orientation?”
 
-Options:
+## Short intake forms for common contexts
 
-- Full transparency:
-  - “My goal for this session is to understand how we got here, agree on one stabilizing change, and keep this respectful for both sides.”
-- Partial:
-  - Emphasize cognitive and relational goals, keep the power analysis internal.
-- Private:
-  - In some cases (for example, coaching yourself in a company context), you keep the full Orientation to yourself but still design based on it.
+You can keep micro-templates for recurring domains.
 
-Rule of thumb:
+### Client / consulting context
 
-- The more power you have, the more transparency helps.
-- The less power you have, the more you may need to keep some analysis internal for safety.
+* What is happening?
+* Mode guess:
 
-## Outputs of Intake and Orientation
+  * Setup / Stabilization / Growth.
+* Who is in/out of the room?
+* Power asymmetry:
 
-After this chapter, you should have:
+  * Low / Medium / High.
+* Safety:
 
-- A short written or mental snapshot of:
-  - the situation,
-  - the dominant mode,
-  - stakeholders and power,
-  - safety/scope constraints,
-  - intent and outcomes,
-  - basic constraints.
-- A one- or two-sentence Orientation statement.
+  * Low / Medium / High.
+* Safety Check:
 
-These are the **inputs** to:
+  * true / false.
+* What outcome would make this conversation valuable for:
 
-- `230-designing-the-topology-dimensions.md`:
-  - choosing which dimensions to activate and which to avoid.
-- `240-designing-flow-and-pathways.md`:
-  - ordering questions and controlling depth.
-- `250-recursion-and-iteration-loops.md`:
-  - later evaluating whether your Orientation was accurate or needs revision.
+  * the client,
+  * you,
+  * the relationship?
+* Timebox and format:
 
-If a question space feels wrong in use, you can return here and ask:
+  * 30–60 min, remote/in-person.
+* Out of scope:
 
-- “Did I misread the mode?”
-- “Did I ignore power or safety?”
-- “Was my intent too vague or too ambitious?”
-- “Did I try to do therapy, legal work, or crisis management with a question space?”
+  * legal renegotiation, contract drafting, HR incidents, clinical topics.
 
-Almost always, fixing Orientation fixes the rest.
+### Internal team / leadership context
+
+* Situation in one sentence.
+* Mode:
+
+  * Setup / Stabilization / Growth.
+* Who is here?
+
+  * manager? ICs? cross-team?
+* Power asymmetry:
+
+  * Low / Medium / High.
+* Safety:
+
+  * Low / Medium / High.
+* Safety Check:
+
+  * true / false.
+* What do we want:
+
+  * cognitively,
+  * relationally?
+* Constraints:
+
+  * weekly slot vs one-off,
+  * recording yes/no.
+
+### Personal reflection
+
+* What am I reflecting on?
+* Why now?
+* Mode:
+
+  * mostly Setup, Stabilization, or Growth?
+* Who else is affected?
+* Emotional state:
+
+  * calm / tense / overwhelmed.
+* Any red flags:
+
+  * health, harm, legal, abuse?
+* What do I want by the end:
+
+  * clarity, options, one small step?
+
+Even when working solo, you can apply a **light Safety Check**:
+
+* “Is what I’m touching here too heavy to handle alone with questions?”
+* “Should my next step be:
+
+  * journaling,
+  * talking to someone I trust,
+  * or professional help?”
+
+The more you reuse these small intake patterns, the more natural Orientation becomes.
+Designing question spaces then feels less like improvisation and more like using a **reliable scaffolding** that still leaves room for your judgment and style.
