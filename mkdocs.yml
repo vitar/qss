@@ -66,8 +66,8 @@ nav:
     - 300-reference/310-question-pattern-cheatsheets.md
     - 300-reference/320-templates-and-checklists.md
     - 300-reference/330-example-question-spaces-case-studies.md
-    - 300-reference/390-version-and-licensing.md
-    - author.md
+#    - 300-reference/390-version-and-licensing.md
+#    - author.md
 
 markdown_extensions:
   - admonition
